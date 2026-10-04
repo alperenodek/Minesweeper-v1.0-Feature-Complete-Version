@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52cfb8c05ed29094197f1927ed81f5dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 4529500193732807902, guid: 7f8a56c89753c244688b60f5b01168df, type: 3}
+  - mineSprite: {instanceID: 0}
+  - explosionSprite: {instanceID: 0}
+  - flagSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
